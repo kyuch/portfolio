@@ -1,28 +1,28 @@
 [
     {
-      "role": "Software Engineer",
-      "organization": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Software Developer Intern",
+      "organization": "Clearsight Technology Partners LLC",
+      "startDate": "Jan, 2024",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "experiences": ["placeholder", "placeholder"],
       "imageSrc": "google.png"
     },
     {
-      "role": "UI Designer",
-      "organization": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "role": "Level 2 Specialist Help Desk Consultant",
+      "organization": "Rutgers University OIT",
+      "startDate": "Apr, 2023",
+      "endDate": "Jun, 2024",
+      "experiences": ["placeholder", "placeholder"],
       "imageSrc": "microsoft.png"
     },
     {
-      "role": "SWE Intern",
-      "organization": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Help Desk Technician",
+      "organization": "Rutgers New Brunswick IT Services",
+      "startDate": "Jan, 2022",
+      "endDate": "Sep, 2022",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "placeholder",
+        "placeholder"
       ],
       "imageSrc": "netflix.png"
     }
