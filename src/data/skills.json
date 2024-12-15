@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Python",
+        "imageSrc": "python.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "java.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "sql.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "c.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "javascript.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "react.png"
+    },
+    {
+        "title": "AWS",
+        "imageSrc": "aws.png"
+    },
+    {
+        "title": "Azure",
+        "imageSrc": "azure.png"
+    }
+  ]
