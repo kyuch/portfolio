@@ -28,12 +28,14 @@
 .cardContainer {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     border-radius: 10px;
     background: var(--color-secondary);
     background: linear-gradient(180deg, var(--color-secondary) 0%, #535353 100%);
     box-shadow: 0 16px 14px 0 var(--color-bg);
     padding: 18px 24px;
     max-width: 345px;
+    height: 400px;
 }
 
 .image {
@@ -72,7 +74,7 @@
 
 .links {
     width: 100%;
-    margin-top: 26px;
+    margin-top: auto;
     display: flex;
     justify-content: space-around;
 }
@@ -81,13 +83,44 @@
     text-decoration: none;
     font-family: var(--font-jetbrains);
     color: var(--color-text);
-    font-size: 30px;
-    font-weight: 400;
-    border-radius: 100px;
+    font-size: 20px;
+    font-weight: 600;
     background: var(--color-primary);
-    padding: 1px 22px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.linkGreen {
+    text-decoration: none;
+    font-family: var(--font-jetbrains);
+    color: var(--color-text);
+    font-size: 20px;
+    font-weight: 600;
+    background: #16a34a;
+    padding: 10px 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
 }
 
 .link[href=""] {
     display: none;
 }
+.linkGreen[href=""] {
+    display: none;
+}
+
+.buttonImage {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.link:hover {
+    background-image: linear-gradient(rgb(0 0 0/40%) 0 0);
+  }
+  .linkGreen:hover {
+    background-image: linear-gradient(rgb(0 0 0/20%) 0 0);
+  }

@@ -34,6 +34,7 @@
     text-decoration: none;
     
 }
+.menuItems a:hover {filter: brightness(0.8);}
 
 .menuBtn {
     display: none;

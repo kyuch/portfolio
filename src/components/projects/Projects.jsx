@@ -1,6 +1,8 @@
 import React from 'react'
 import projects from '../../data/projects.json'
 import styles from "./Projects.module.css"
+import github from "../../../assets/projects/githubIcon.png"
+import extLink from "../../../assets/projects/extLink.png"
 
 const importAllImages = () => {
     const images = {};
@@ -21,7 +23,7 @@ export const Projects = () => {
         <div className={styles.projects}>{
             projects.map((project, id) => (
                 <div key={id} className={styles.cardContainer}>
-                    <img src={projectImages[project.imageSrc]} alt={`Image of ${project.title}`} className={styles.image}/>
+                    {/* <img src={projectImages[project.imageSrc]} alt={`Image of ${project.title}`} className={styles.image}/> */}
                     <h3 className={styles.cardTitle}>{project.title}</h3>
                     <p className={styles.description}>{project.description}</p>
                     <ul className={styles.skills}>{
@@ -29,8 +31,10 @@ export const Projects = () => {
                             <li key={id} className={styles.skill}>{skill}</li>
                         ))}</ul>
                     <div className={styles.links}>
-                        <a target="_blank" href={project.demo} className={styles.link}>Demo</a>
-                        <a target="_blank" href={project.source} className={styles.link}>Source</a>
+                        <a target="_blank" href={project.demo} className={styles.linkGreen}>
+                            <img src={extLink} alt="External Link" className={styles.buttonImage}/>View</a>
+                        <a target="_blank" href={project.source} className={styles.link}>
+                            <img src={github} alt="Github logo" className={styles.buttonImage}/>GitHub</a>
                     </div>
                 </div>
         ))}</div>

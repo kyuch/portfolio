@@ -8,19 +8,27 @@
       "source": "https://github.com/kyuch/NetIDScraper"
     },
     {
+      "title": "Portfolio",
+      "imageSrc": "project.png",
+      "description": "My portfolio -- that you are viewing right now -- built with React + Vite, JavaScript, HTML and CSS.",
+      "skills": ["React", "Vite", "JavaScript", "HTML", "CSS"],
+      "demo": "https://kyuch.net",
+      "source": "https://github.com/kyuch/portfolio"
+    },
+    {
+      "title": "Shortwave Radio Analysis",
+      "imageSrc": "project.png",
+      "description": "Website developed for Clearsight Technologies. Processes & analyzes global shortwave signal streams and visualizes propagation trends/insights on an intuitive dashboard.",
+      "skills": ["Python", "Pandas", "HTML", "AWS", "SQL"],
+      "demo": "http://ve3eid-copilot.s3.amazonaws.com/index.html",
+      "source": "https://github.com/kyuch/Radio"
+    },
+    {
       "title": "TrackTally Spotify User Analytics",
       "imageSrc": "project.png",
       "description": "Website created with React that queries and interprets the Spotify API to generate user profile statistics and listening trends.",
       "skills": ["React", "JavaScript", "HTML", "CSS"],
       "demo": "https://kyuch.github.io/TrackTally/",
       "source": "https://github.com/kyuch/TrackTally"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
     }
   ]

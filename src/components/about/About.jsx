@@ -37,7 +37,7 @@ export const About = () => {
                     <img src={cloud} alt="cloud icon" className={styles.itemImage}/>
                     <div className={styles.aboutItemText}>
                         <h3>Cloud Knowledge</h3>
-                        <p>As a cloud computing specialist, I leverage AWS services including EC2 and S3 and hold an Azure Fundamentals certification to develop robust full-stack applications.</p>
+                        <p>As a cloud computing specialist, I hold an Azure Fundamentals certification and leverage AWS services including EC2 and S3 to develop robust full-stack applications.</p>
                     </div>
                 </li>
             </ul>
