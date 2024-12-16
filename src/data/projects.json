@@ -4,7 +4,7 @@
       "imageSrc": "project.png",
       "description": "Program that uses Python with Selenium to automate the consolidation of IT clients’ data from several Rutgers databases, reducing call times.",
       "skills": ["Python", "Selenium"],
-      "demo": "https://www.example.com",
+      "demo": "",
       "source": "https://github.com/kyuch/NetIDScraper"
     },
     {

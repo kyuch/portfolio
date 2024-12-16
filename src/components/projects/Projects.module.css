@@ -87,3 +87,7 @@
     background: var(--color-primary);
     padding: 1px 22px;
 }
+
+.link[href=""] {
+    display: none;
+}
