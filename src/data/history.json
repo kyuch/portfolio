@@ -4,16 +4,20 @@
       "organization": "Clearsight Technology Partners LLC",
       "startDate": "Jan, 2024",
       "endDate": "Present",
-      "experiences": ["placeholder", "placeholder"],
-      "imageSrc": "google.png"
+      "experiences": ["Architected and developed a real-time data analysis website for shortwave signal streams using the Pandas library with Python, serving thousands of ham radio users worldwide.",
+       "Designed and deployed an innovative dashboard that visualizes and simplifies complex shortwave propagation across various frequencies and global regions.",
+       "Leveraged AWS Bedrock to integrate advanced generative AI for analyzing and summarizing real-time solar and geomagnetic data, enhancing the accuracy and depth of propagation insights.",
+       "Utilized Python, AWS EC2, and AWS S3 to build a scalable, cross-platform solution, improving data accessibility and optimizing processing efficiency."],
+      "imageSrc": "clearsight.png"
     },
     {
       "role": "Level 2 Specialist Help Desk Consultant",
       "organization": "Rutgers University OIT",
       "startDate": "Apr, 2023",
       "endDate": "Jun, 2024",
-      "experiences": ["placeholder", "placeholder"],
-      "imageSrc": "microsoft.png"
+      "experiences": ["Supervised and trained 15+ consultants while providing technical support to 100+ university-affiliated clients weekly, maintaining a 95% satisfaction rate using tools like ServiceNow and Bomgar Remote Support Software.",
+       "Utilized knowledge of Layer 2 to Layer 7 OSI configurations, including MAC, TCP/IP, DHCP, and DNS to resolve clients’ network challenges, ensuring continuous connectivity and smooth data flow."],
+      "imageSrc": "rutgers.png"
     },
     {
       "role": "Help Desk Technician",
@@ -21,9 +25,9 @@
       "startDate": "Jan, 2022",
       "endDate": "Sep, 2022",
       "experiences": [
-        "placeholder",
-        "placeholder"
+        "Acted as a frontline IT support technician, resolving over 40 day-to-day issues that Rutgers University staff members working under the Office of the Chancellor encountered during their workday.",
+        "Assisted university staff members with issues and inquiries regarding university hardware and software using tools such as Remote Desktop Connection, KACE Systems Management Appliance, and Jenkins."
       ],
-      "imageSrc": "netflix.png"
+      "imageSrc": "rutgers.png"
     }
   ]
