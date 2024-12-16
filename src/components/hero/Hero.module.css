@@ -20,6 +20,7 @@
 }
 
 .title {
+  font-family: var(--font-roboto);
   font-size: 72px;
   font-weight: 800;
   margin-bottom: 33px;
@@ -30,6 +31,7 @@
   );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  
 }
 
 .description {

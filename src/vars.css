@@ -13,5 +13,6 @@
     --color-bg2: #04152d;
 
     /* fonts */
-    --font-roboto: "Roboto"
+    --font-roboto: "Roboto";
+    --font-jetbrains: "JetBrains Mono";
 }

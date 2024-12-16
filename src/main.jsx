@@ -5,6 +5,7 @@ import './index.css'
 import App from './App.jsx'
 import "@fontsource/outfit"
 import "@fontsource/roboto"
+import "@fontsource/jetbrains-mono"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
