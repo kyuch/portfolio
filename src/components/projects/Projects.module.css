@@ -47,8 +47,8 @@
 
 .description {
     margin-top: 6px;
-    font-size: 25px;
-    font-weight: 400;
+    font-size: 18px;
+    font-weight: 350;
 }
 
 .skills {
@@ -63,7 +63,7 @@
 
 .skill {
     font-family: var(--font-jetbrains);
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 400;
     border-radius: 100px;
     background: #3a82f6;
