@@ -1,5 +1,13 @@
 [
     {
+      "title": "Social Media Sentiment Analysis",
+      "imageSrc": "project.png",
+      "description": "Program that uses Natural Language Processing (ML) to analyze the online user sentiment of search terms on social media platforms such as Bluesky.",
+      "skills": ["Python", "NLP", "ML/AI", "Pandas", "Scikit-learn"],
+      "demo": "",
+      "source": "https://github.com/kyuch/online-sentiment-analysis/"
+    },
+    {
       "title": "Unified NetID Retrieval System",
       "imageSrc": "project.png",
       "description": "Program that uses Python with Selenium to automate the consolidation of IT clients’ data from several Rutgers databases, reducing call times.",
