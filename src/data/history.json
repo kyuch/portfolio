@@ -1,5 +1,15 @@
 [
     {
+      "role": "AI Trainer",
+      "organization": "Outlier",
+      "startDate": "Dec, 2024",
+      "endDate": "Present",
+      "experiences": ["Developed over 200 comprehensive test datasets by creating targeted prompts and curating relevant images for AI model training, while designing detailed evaluation rubrics to define response quality standards.",
+      "Analyzed AI model outputs through systematic evaluation and ranking of responses, providing detailed justifications to guide model improvements.",
+      "Reviewed work of fellow AI trainers to ensure consistent evaluation standards across the company."],
+      "imageSrc": "outlier.png"
+    },
+    {
       "role": "Software Developer Intern",
       "organization": "Clearsight Technology Partners LLC",
       "startDate": "Jan, 2024",
