@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS",
+        "imageSrc": "aws.png"
+    },
+    {
+        "title": "Azure",
+        "imageSrc": "azure.png"
+    },
+    {
         "title": "Python",
         "imageSrc": "python.png"
     },
@@ -30,13 +38,5 @@
     {
       "title": "React",
       "imageSrc": "react.png"
-    },
-    {
-        "title": "AWS",
-        "imageSrc": "aws.png"
-    },
-    {
-        "title": "Azure",
-        "imageSrc": "azure.png"
     }
   ]

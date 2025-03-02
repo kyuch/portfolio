@@ -7,10 +7,8 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Alex Kyuchukov</h1>
             <p className={styles.description}>
-            I'm a full-stack developer with a B.S. in Computer Science from Rutgers University, 
-            driven by a passion for creating impactful solutions. 
-            I enjoy tackling complex challenges and bringing ideas to life through programming. 
-            Reach out if you'd like to learn more!
+            I'm an aspiring IT professional and full-stack developer with a B.S. in Computer Science from Rutgers University,
+            driven by a passion for tackling complex challenges.
             </p>
             <a href="mailto:alexkyuchukov@gmail.com" className={styles.contactBtn}>Contact Me</a>
         </div>

@@ -19,25 +19,26 @@ export const About = () => {
                 className={styles.aboutImage}
             />
             <ul className={styles.aboutItems}>
+                <li className={styles.aboutItem}>
+                    <img src={cloud} alt="cloud icon" className={styles.itemImage}/>
+                    <div className={styles.aboutItemText}>
+                        <h3>Cloud Computing</h3>
+                        <p>
+                        As a cloud-focused IT professional and developer with an Azure Fundamentals certification, I leverage Azure and AWS services to provision and manage virtual machines and utilize secure, efficient storage solutions.</p>
+                    </div>
+                </li>
                 <li className={styles.aboutItem}> 
                     <img src={frontend} alt="frontend icon" className={styles.itemImage}/>
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Developer</h3>
-                        <p>As a developer with front-end experience, I create intuitive web interfaces using JavaScript, HTML, CSS, and React, with a focus on delivering clean, user-centric design.</p>
+                        <h3>IT Experience</h3>
+                        <p>As an IT professional, I leverage OSI layer expertise and hands-on hardware/software troubleshooting to deliver seamless technical support, ensuring exceptional user experiences.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>  
                     <img src={backend} alt="backend icon" className={styles.itemImage}/>
                     <div className={styles.aboutItemText}>
-                        <h3>Backend Developer</h3>
-                        <p>As a developer with extensive back-end experience, I specialize in building efficient and reliable solutions using Java, Python, SQL, and C.</p>
-                    </div>
-                </li>
-                <li className={styles.aboutItem}>
-                    <img src={cloud} alt="cloud icon" className={styles.itemImage}/>
-                    <div className={styles.aboutItemText}>
-                        <h3>Cloud Knowledge</h3>
-                        <p>As a cloud computing specialist, I hold an Azure Fundamentals certification and leverage AWS services including EC2 and S3 to develop robust full-stack applications.</p>
+                        <h3>Full-stack Development</h3>
+                        <p>As a full-stack developer, I create intuitive web interfaces using JavaScript, HTML, CSS, and React, while building efficient and reliable back-end solutions in Java, Python, SQL, and C—all with a focus on clean, user-centric design.</p>
                     </div>
                 </li>
             </ul>
